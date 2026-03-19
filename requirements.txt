@@ -1,0 +1,14 @@
+google-genai
+speechrecognition
+pyttsx3
+PyQt6
+mediapipe
+opencv-python
+pyautogui
+pywhatkit
+pynput
+python-dotenv
+googlesearch-python
+sounddevice
+numpy
+scipy
